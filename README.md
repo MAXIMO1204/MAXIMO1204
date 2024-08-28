@@ -15,6 +15,11 @@ Python: Desarrollo de aplicaciones y análisis de datos.
 JavaScript: Creación de interfaces interactivas con frameworks como React.
 HTML/CSS: Diseño de páginas web responsivas y accesibles.
 Node.js: Construcción de APIs y servicios backend.
+
+<div align="center">
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/494/492/desktop-wallpaper-programming-language-bioinformatics.jpg" height="150" alt="languages graph"  />
+</div>
+
 Proyectos Destacados
 CENTRO MEDICO: Pagina informatica de un centro medico en proceso
 

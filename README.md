@@ -1,3 +1,8 @@
+# Bienvenidos a mi GitHub 🐾
+<div align="center">
+  <img height="200" src="https://wallpaper.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg"  />
+</div>
+
 👋 Hola, Soy RAMIRO ATENCIO
 🎓 Estudiante de Desarrollo de Software
 
